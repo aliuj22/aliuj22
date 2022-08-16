@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I'm Julia, a Frontend Development Student at Hyper Island ✨
 
-### 🌱 I’m currently learning: Javascript, ReactJS, HTML, CSS, basics of MERN stack and TDD, working in agile teams, designing in Figma :computer:
+### 🌱 I’m currently learning: Vue and Typescript :computer:
 ### 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/julia-wos99/">
