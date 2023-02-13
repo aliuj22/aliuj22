@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 </div>
 
-### Hi there 👋 I'm Julia, a soon-to-be graduate Fullstack Developer from Hyper Island✨
+### Hi there 👋 I'm Julia, a Fullstack Development intern at 12iD and a soon-to-be graduate from Hyper Island✨
 
-### 🌱 I’m currently learning: Vue and React Native :computer:
+### 🌱 I’m currently learning: Vue and Redux :computer:
 ### 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/julia-wos99/">
